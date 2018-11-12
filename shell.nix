@@ -41,6 +41,7 @@ mkShell {
         ifplatform
         xstring
         minifp
+        allrunes
         enumitem;
       })
     gnumake

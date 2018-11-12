@@ -1,0 +1,1 @@
+f compose p|\textart{s}| == g compose p|\textart{s}|

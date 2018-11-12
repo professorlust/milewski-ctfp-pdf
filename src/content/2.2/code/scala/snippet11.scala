@@ -1,0 +1,1 @@
+val p|\textart{s}| = p compose h
